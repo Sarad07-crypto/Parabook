@@ -1,8 +1,8 @@
 
 <?php
 // Replace with your DB credentials
-$servername = "localhost";
-$username = "root";
+$servername = "";
+$username = ";
 $password = "";
 $database = "parabook";
 
